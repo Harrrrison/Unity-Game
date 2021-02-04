@@ -56,6 +56,9 @@ public class EnemyHits : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
+			Shootable md = other.gameObject.GetComponent<Shootable>();
+            if (md != null) 
+                md.takeDamage(1);
             Explode();
         }
     }

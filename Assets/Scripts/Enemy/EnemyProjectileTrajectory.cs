@@ -53,8 +53,11 @@ public class EnemyProjectileTrajectory : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Player"))
+        if (!other.CompareTag("Enemy"))
         {
+            Shootable ep = other.gameObject.GetComponent<Shootable>();
+            if (ep != null) 
+                ep.takeDamage(1);
             Explode();
         }
     }

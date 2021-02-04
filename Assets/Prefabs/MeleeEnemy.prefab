@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 4655528338522440108}
   m_Layer: 0
   m_Name: MeleeEnemy
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -101,6 +101,8 @@ MonoBehaviour:
   player: {fileID: 0}
   stoppingDistance: 3
   dashSpeed: 30
+  explosion: {fileID: 5625462269575644701, guid: 6c7791fbb80a1a142aea68abe7d29da3,
+    type: 3}
 --- !u!60 &4655528338522440107
 PolygonCollider2D:
   m_ObjectHideFlags: 0
