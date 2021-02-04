@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-02-04T13:55:38.047+00:00
+  initializedAtString: 2021-02-04T13:38:43.480+00:00
+  entries:
+  - path: Assets\Prefabs\Enemy.prefab
+    fullPath: C:\Users\James Chen\Documents\GitHub\Unity-game-fork-jch\Unity-game\Assets\Prefabs\Enemy.prefab
+    projectPath: Assets\Prefabs\Enemy.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\MeleeEnemy.prefab
+    fullPath: C:\Users\James Chen\Documents\GitHub\Unity-game-fork-jch\Unity-game\Assets\Prefabs\MeleeEnemy.prefab
+    projectPath: Assets\Prefabs\MeleeEnemy.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\James Chen\Documents\GitHub\Unity-game-fork-jch\Unity-game\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Enemy\EnemyHits.cs
+    fullPath: C:\Users\James Chen\Documents\GitHub\Unity-game-fork-jch\Unity-game\Assets\Scripts\Enemy\EnemyHits.cs
+    projectPath: Assets\Scripts\Enemy\EnemyHits.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Enemy\EnemyMoves.cs
+    fullPath: C:\Users\James Chen\Documents\GitHub\Unity-game-fork-jch\Unity-game\Assets\Scripts\Enemy\EnemyMoves.cs
+    projectPath: Assets\Scripts\Enemy\EnemyMoves.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Enemy\EnemyProjectileTrajectory.cs
+    fullPath: C:\Users\James Chen\Documents\GitHub\Unity-game-fork-jch\Unity-game\Assets\Scripts\Enemy\EnemyProjectileTrajectory.cs
+    projectPath: Assets\Scripts\Enemy\EnemyProjectileTrajectory.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Packages\packages-lock.json
+    fullPath: C:\Users\James Chen\Documents\GitHub\Unity-game-fork-jch\Unity-game\Packages\packages-lock.json
+    projectPath: Packages\packages-lock.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\TagManager.asset
+    fullPath: C:\Users\James Chen\Documents\GitHub\Unity-game-fork-jch\Unity-game\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
