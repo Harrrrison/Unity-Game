@@ -20,4 +20,4 @@ aneurysm (no caps) is a game of wonder and mystery, you venture alone though a d
 - Close range enemies charge and self destruct on the player
 
 ### link to walk through
-https://www.youtube.com/watch?v=iik25wqIuFo&ab_channel=Rickroll%2Cbutwithadifferentlink
+https://www.youtube.com/watch?v=oHg5SJYRHA0&ab_channel=cotter548
