@@ -18,3 +18,6 @@ aneurysm (no caps) is a game of wonder and mystery, you venture alone though a d
 -Scripts split into two, player and enemy
 -The archer enemies attempt to stay at a range of around 6 squares encoraging the player to used ranged attacks
 -Close range enemies charge and self destruct on the player
+
+### link to walk through
+https://www.youtube.com/watch?v=iik25wqIuFo&ab_channel=Rickroll%2Cbutwithadifferentlink
