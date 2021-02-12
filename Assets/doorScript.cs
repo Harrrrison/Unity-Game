@@ -4,19 +4,20 @@ using UnityEngine;
 
 public class doorScript : Interactable
 {
-    
-    public CapturePoint Captured;
+    public CapturePoint isCaptured;
     void Start()
     {
-        GetComponent<BoxCollider2D>().enabled = true;
+
 
     }
 
-    // Update is called once per frame
+
     void Update()
     {
-        GetComponent<BoxCollider2D>().enabled = true;
-        if (Captured)
-            GetComponent<BoxCollider2D>().enabled = false;
+    }
+
+    public void Door(bool isCaptured)
+    {
+
     }
 }

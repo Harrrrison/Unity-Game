@@ -4,20 +4,8 @@ using UnityEngine;
 
 public class vanishObj : MonoBehaviour
 {
-    bool isTrue;
-    public void ActivateMe()
+    void Update()
     {
-        gameObject.SetActive(true);
-    }
 
-    public void DeactivateMe()
-    {
-        StartCoroutine(RemoveAfterSeconds(2));
-    }
-
-    IEnumerator RemoveAfterSeconds(int seconds)
-    {
-        yield return new WaitForSeconds(seconds);
-        gameObject.SetActive(false);
     }
 }
