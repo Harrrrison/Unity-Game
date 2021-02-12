@@ -1,27 +1,20 @@
-- Assets 
-    - Tiles 
-    - Sprite assets
-        - Animation
-    - Ability assets 
-        - Animation
-    - UI Assets
-    - HUD design
-    - Sound design
-- Gameplay 
-    - Map design
-        - Level design 
-        - General progression design (items, shop, levelling, crafting, etc.)
-        - Multiplayer(?) design
-    - Player design 
-        - Sprite design/balance
-        - Ability design/balance
-    - Enemy design
-    - Objective design
-    camera character updates by frame, physics by fixed update
+# aneurysm
 
-- Potentially add multiplayer in future - Design to balance multiplayer 
+## The new age dungeon crawler
 
-Jobs: 
-- Enviroment and interaction design - Harrison and TJ 
+### Game description
+aneurysm (no caps) is a game of wonder and mistery, you venture alone though a dark yet wonderful castle with no end in sight. Untill you stumble upon the shapes, odd life forms that seem to guard the castle. They don't want you there, neither do you.You must venture through the castle capturing points, slaying enemies and collecting power ups to hopefully free yourself from the endless wondering.
+
+### The team: 
+- Enviroment - Harrison
+- UI & Sound - TJ 
 - Player design - Isaac
 - Enemy design - James 
+
+### Modding notes
+-A* algorythem used for path finding 
+-Map slpit into two parts - tile map (hit-boxed tiles) & No hit box (self explanitary)
+-All buffs and modifiers work using factors
+-Scripts split into two, player and enemy
+-The archer enemies attempt to stay at a range of around 6 squares encoraging the player to used ranged attacks
+-Close range enemies charge and self destruct on the player
