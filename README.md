@@ -3,7 +3,7 @@
 ## The new age dungeon crawler
 
 ### Game description
-aneurysm (no caps) is a game of wonder and mistery, you venture alone though a dark yet wonderful castle with no end in sight. Untill you stumble upon the shapes, odd life forms that seem to guard the castle. They don't want you there, neither do you.You must venture through the castle capturing points, slaying enemies and collecting power ups to hopefully free yourself from the endless wondering.
+aneurysm (no caps) is a game of wonder and mystery, you venture alone though a dark yet wonderful castle with no end in sight. Until you stumble upon the shapes, odd life forms that seem to guard the castle. They don't want you there, neither do you.You must venture through the castle capturing points, slaying enemies and collecting power ups to hopefully free yourself from the endless wondering.
 
 ### The team: 
 - Enviroment - Harrison
